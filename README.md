@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_720_1280/0/1677890171661?e=1719446400&v=beta&t=_kS2e1rxYquHf8Ve-FmsLAETpHXv4KNhtyEl2kkoaMM))
 <h1 align="center">Hi 👋, I'm samaptidutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBn2nrJfKQJc6-9JQmAnvfqCa2gBscsmaRP41tLsj6w&s">
